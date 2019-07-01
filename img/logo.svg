@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="46.745308mm"
+   height="19.737036mm"
+   viewBox="0 0 46.745308 19.737036"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.49999 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="210 : 148.49999 : 1"
+       inkscape:persp3d-origin="105 : 98.999996 : 1"
+       id="perspective3719" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="325.19656"
+     inkscape:cy="-6.0710419"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="112"
+     inkscape:window-y="892"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.3120496,-4.4446253)">
+    <g
+       id="g3779"
+       transform="matrix(1.0559939,0,0,0.67977264,-49.602821,-17.186127)">
+      <g
+         id="g3772">
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
+           id="path3717"
+           sodipodi:cx="56.393867"
+           sodipodi:cy="60.733734"
+           sodipodi:expansion="1"
+           sodipodi:revolution="0.050000001"
+           sodipodi:radius="0.044413816"
+           sodipodi:argument="-18.444664"
+           sodipodi:t0="0"
+           d="m 56.393867,60.733734 c 0.0139,0.006 0.02557,0.01637 0.03342,0.02925" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
+           id="path3759"
+           sodipodi:cx="73.13839"
+           sodipodi:cy="39.976192"
+           sodipodi:expansion="1"
+           sodipodi:revolution="2.24893"
+           sodipodi:radius="19.273081"
+           sodipodi:argument="-12.362252"
+           sodipodi:t0="0"
+           d="m 73.13839,39.976192 c 1.262281,0.261294 0.270546,1.830444 -0.434288,2.097995 -1.910056,0.725048 -3.580772,-1.233989 -3.761702,-2.96657 -0.323641,-3.09918 2.60455,-5.410977 5.498852,-5.425409 4.247505,-0.02118 7.276449,3.986846 7.089117,8.031135 -0.249685,5.3904 -5.372409,9.155808 -10.563417,8.752823 -6.532354,-0.507115 -11.04212,-6.759308 -10.416531,-13.095699 0.757672,-7.674218 8.146918,-12.932414 15.627981,-12.080238 8.816174,1.00426 14.825203,9.534963 13.743946,18.160264 -1.242031,9.907808 -10.83295,16.664472 -20.563714,15.424511"
+           transform="matrix(1.484459,0,0,0.59290881,-37.599284,16.957831)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.61325932px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31533146"
+           x="60.560364"
+           y="43.356022"
+           id="text3715"
+           transform="scale(0.94189125,1.0616937)"><tspan
+             sodipodi:role="line"
+             id="tspan3713"
+             x="60.560364"
+             y="43.356022"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';stroke-width:0.31533146">GARH</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
